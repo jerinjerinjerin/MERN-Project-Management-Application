@@ -1,0 +1,8 @@
+{
+    "extends": "./jsconfig.json",
+    "compilerOptions": {
+      "lib": ["ES6"],
+      "module": "commonjs"
+    }
+  }
+  
